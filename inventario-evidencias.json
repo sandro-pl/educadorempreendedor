@@ -1,0 +1,268 @@
+{
+  "docs": [
+    {
+      "id": "a1-material",
+      "lesson": 1,
+      "path": "assets/documentos/a1-material.pdf",
+      "preview": "assets/previas/a1-material.jpg",
+      "title": "Material do encontro",
+      "caption": "Educação Empreendedora e o Mundo do Trabalho. Referência para a discussão sobre a docência e os futuros possíveis.",
+      "kind": "Material do curso",
+      "pages": 54,
+      "original": "Aula 1 –Educação Empreendedora e o Mundo do Trabalho.pdf"
+    },
+    {
+      "id": "a1-proposta",
+      "lesson": 1,
+      "path": "assets/documentos/a1-proposta.pdf",
+      "preview": "assets/previas/a1-proposta.jpg",
+      "title": "Proposta da atividade",
+      "caption": "Estudo de futuros: passado, presente e análise STEEP. Permite compreender o desafio que orientou a produção do grupo.",
+      "kind": "Enunciado",
+      "pages": 4,
+      "original": "ATIVIDADE DA AULA 1.pdf"
+    },
+    {
+      "id": "a1-resposta",
+      "lesson": 1,
+      "path": "assets/documentos/a1-resposta.pdf",
+      "preview": "assets/previas/a1-resposta.jpg",
+      "title": "Nossa construção sobre o futuro",
+      "caption": "Produção da atividade da Aula 1. Registra as hipóteses construídas; o tempo não permitiu aprofundar todas as dimensões solicitadas.",
+      "kind": "Produção da atividade",
+      "pages": 4,
+      "original": "MINHA CONTRUÇÃO DA ATIVIDADE DA AULA 01.pdf"
+    },
+    {
+      "id": "a2-material",
+      "lesson": 2,
+      "path": "assets/documentos/a2-material.pdf",
+      "preview": "assets/previas/a2-material.jpg",
+      "title": "Material do encontro",
+      "caption": "Conceitos de empreendedorismo e educação empreendedora que ajudaram a ampliar minha compreensão sobre geração de valor.",
+      "kind": "Material do curso",
+      "pages": 37,
+      "original": "Aula 2 - Empreendedorismo e Educação Empreendedora.pdf"
+    },
+    {
+      "id": "a2-plus",
+      "lesson": 2,
+      "path": "assets/documentos/a2-plus.pdf",
+      "preview": "assets/previas/a2-plus.jpg",
+      "title": "Material complementar — Plus",
+      "caption": "Aprofundamento disponibilizado para o encontro, preservado junto às demais referências da aula.",
+      "kind": "Material do curso",
+      "pages": 11,
+      "original": "Aula 2 - Plus.pdf"
+    },
+    {
+      "id": "a2-proposta",
+      "lesson": 2,
+      "path": "assets/documentos/a2-proposta.pdf",
+      "preview": "assets/previas/a2-proposta.jpg",
+      "title": "O desafio das 1.200 refeições",
+      "caption": "Enunciado para repensar uma situação de aprendizagem envolvendo perdas, padronização e segurança na produção de refeições.",
+      "kind": "Enunciado",
+      "pages": 3,
+      "original": "ATIVIDADE DA AULA 2.pdf"
+    },
+    {
+      "id": "a2-resposta",
+      "lesson": 2,
+      "path": "assets/documentos/a2-resposta.pdf",
+      "preview": "assets/previas/a2-resposta.jpg",
+      "title": "Do erro à investigação",
+      "caption": "Resposta construída em grupo. Minha contribuição foi transformar erros observados em um local fictício para que os estudantes analisassem e propusessem correções.",
+      "kind": "Produção coletiva",
+      "pages": 1,
+      "original": "RESPOSTA DA ATIVIDADE DA AULA 2.pdf"
+    },
+    {
+      "id": "a2-paulo",
+      "lesson": 2,
+      "path": "assets/documentos/a2-paulo.pdf",
+      "preview": "assets/previas/a2-paulo.jpg",
+      "title": "A aula pelo olhar de Paulo",
+      "caption": "Síntese visual de Paulo Henrique Benedeti. Escolhida pela criatividade e pela forma de organizar as ideias do encontro.",
+      "kind": "Síntese de Paulo Henrique Benedeti",
+      "pages": 1,
+      "original": "O Educador Empreendedor - Aula 02 - 27.08.2026 (1).pdf"
+    },
+    {
+      "id": "a3-material",
+      "lesson": 3,
+      "path": "assets/documentos/a3-material.pdf",
+      "preview": "assets/previas/a3-material.jpg",
+      "title": "Material do encontro",
+      "caption": "Referência das discussões sobre atitude, comportamento, motivação e ação empreendedora.",
+      "kind": "Material do curso",
+      "pages": 50,
+      "original": "Aula 3 – Empreendedorismo como Modo de Pensar e Agir.pdf"
+    },
+    {
+      "id": "a3-proposta",
+      "lesson": 3,
+      "path": "assets/documentos/a3-proposta.pdf",
+      "preview": "assets/previas/a3-proposta.jpg",
+      "title": "Investigar a desmotivação",
+      "caption": "Proposta de análise de relatos de estudantes e construção de ações para reduzir o abandono do Empreenda.",
+      "kind": "Enunciado",
+      "pages": 3,
+      "original": "Atividade aula 03 3 (1).pdf"
+    },
+    {
+      "id": "a3-resposta",
+      "lesson": 3,
+      "path": "assets/documentos/a3-resposta.pdf",
+      "preview": "assets/previas/a3-resposta.jpg",
+      "title": "Reconhecer o caminho percorrido",
+      "caption": "Produção coletiva sobre motivação e permanência. Minha contribuição foi propor etapas regionais que aproximassem a possibilidade de conquista dos estudantes.",
+      "kind": "Produção coletiva",
+      "pages": 1,
+      "original": "resposta da atividade da aula 3.pdf"
+    },
+    {
+      "id": "a3-paulo",
+      "lesson": 3,
+      "path": "assets/documentos/a3-paulo.pdf",
+      "preview": "assets/previas/a3-paulo.jpg",
+      "title": "Outra forma de registrar a aprendizagem",
+      "caption": "Síntese visual de Paulo Henrique Benedeti, reunindo conceitos da Aula 3. Uma contribuição do colega ao repertório coletivo.",
+      "kind": "Síntese de Paulo Henrique Benedeti",
+      "pages": 1,
+      "original": "O Educador Empreendedor Aula 03 - 01.09.2026 (1).pdf"
+    },
+    {
+      "id": "a4-material",
+      "lesson": 4,
+      "path": "assets/documentos/a4-material.pdf",
+      "preview": "assets/previas/a4-material.jpg",
+      "title": "Material do encontro",
+      "caption": "Referência para pensar criatividade, inovação e intencionalidade nas situações de aprendizagem.",
+      "kind": "Material do curso",
+      "pages": 57,
+      "original": "Aula 4 – Criatividade e Inovação na Educação Empreendedora.pdf"
+    },
+    {
+      "id": "a4-proposta",
+      "lesson": 4,
+      "path": "assets/documentos/a4-proposta.pdf",
+      "preview": "assets/previas/a4-proposta.jpg",
+      "title": "Planejar em outra área",
+      "caption": "Enunciado do desafio de planejamento. O grupo utilizou o plano de curso do Técnico em Confeitaria para desenvolver sua proposta.",
+      "kind": "Enunciado",
+      "pages": 3,
+      "original": "Atividade Aula 04.pdf"
+    },
+    {
+      "id": "a4-resposta",
+      "lesson": 4,
+      "path": "assets/documentos/a4-resposta.pdf",
+      "preview": "assets/previas/a4-resposta.jpg",
+      "title": "Confeitaria, território e experimentação",
+      "caption": "Planejamento produzido por Sandro, Cristiane e Giliade. Inclui rotação por estações e uso de ingrediente regional; a atividade não foi aplicada neste curso.",
+      "kind": "Produção coletiva",
+      "pages": 6,
+      "original": "resposta atividade aula 4 grupo 4.pdf"
+    }
+  ],
+  "images": [
+    {
+      "id": "a1-inicio",
+      "lesson": 1,
+      "path": "assets/evidencias/a1-inicio.png",
+      "title": "O início do percurso",
+      "caption": "Registro do encontro on-line com as orientações para o portfólio. Escolhi este momento porque apresenta o sentido do trabalho: contar como cheguei até aqui, explicando as evidências e refletindo sobre a aprendizagem.",
+      "original": "aula 01 - 1.png"
+    },
+    {
+      "id": "a1-reencontros",
+      "lesson": 1,
+      "path": "assets/evidencias/a1-reencontros.png",
+      "title": "Encontros e reencontros",
+      "caption": "Mensagens de João Alves dos Santos e Giliade Santos Macedo. Rever colegas com quem já compartilhei outras experiências formativas reforçou o vínculo e a disposição para aprender junto.",
+      "original": "codex-clipboard-fccf2ef2-533c-4af7-9e9f-bb1e63f69805.png"
+    },
+    {
+      "id": "a1-outro-grupo",
+      "lesson": 1,
+      "path": "assets/evidencias/a1-outro-grupo.png",
+      "title": "Futuros imaginados por outro grupo",
+      "caption": "Registro da contribuição de outro grupo. A presença de tecnologias em seu cenário reforçou minha hipótese sobre a transformação da docência e a importância do vínculo humano.",
+      "original": "Captura de tela 2026-08-25 171442.png"
+    },
+    {
+      "id": "a2-humor",
+      "lesson": 2,
+      "path": "assets/evidencias/a2-humor.png",
+      "title": "Aprender também passa pelo humor",
+      "caption": "Meme compartilhado por Miriam após a brincadeira de Jair: abraçar e orar pelo colega que ainda associa empreender somente a abrir um negócio. O humor tornou marcante a ampliação desse conceito.",
+      "original": "codex-clipboard-5a8c0c21-a147-4831-8f0c-2905c1637998.png"
+    },
+    {
+      "id": "a2-compartilhar",
+      "lesson": 2,
+      "path": "assets/evidencias/a2-compartilhar.png",
+      "title": "Paulo compartilha sua síntese",
+      "caption": "Registro do compartilhamento da síntese de Paulo Henrique Benedeti. Sua criatividade e seu talento ofereceram outra forma de acompanhar e organizar os conteúdos da aula.",
+      "original": "codex-clipboard-6ae74eb3-8dcd-4d30-95a0-12f19431e669.png"
+    },
+    {
+      "id": "a3-origem",
+      "lesson": 3,
+      "path": "assets/evidencias/a3-origem.png",
+      "title": "A origem de tudo",
+      "caption": "Imagem da Carta da Paz Social apresentada no encontro. Escolhida como registro da aproximação com as origens e os compromissos sociais discutidos na formação.",
+      "original": "aula 03.png"
+    },
+    {
+      "id": "a3-rosana",
+      "lesson": 3,
+      "path": "assets/evidencias/a3-rosana.png",
+      "title": "Reencontro e construção coletiva",
+      "caption": "Mensagem de Rosana Maria Menzani sobre a reflexão do grupo. Reencontrá-la, da unidade São Carlos, retomou vínculos de outros Educores e marcou o trabalho compartilhado nesta aula.",
+      "original": "codex-clipboard-eb2eb267-964a-47c9-834c-e41d4d574b30.png"
+    },
+    {
+      "id": "a3-compartilhar",
+      "lesson": 3,
+      "path": "assets/evidencias/a3-compartilhar.png",
+      "title": "Paulo novamente contribuindo",
+      "caption": "Registro da nova síntese compartilhada por Paulo Henrique Benedeti. Sua contribuição permaneceu como apoio à memória do encontro.",
+      "original": "codex-clipboard-8b1cf91d-c1e0-4f8e-9332-36e20fef7d6c.png"
+    },
+    {
+      "id": "a3-camila",
+      "lesson": 3,
+      "path": "assets/evidencias/a3-camila.png",
+      "title": "Uma presença próxima do Empreenda",
+      "caption": "Registro da presença de Camila Weinrich Ono. Ela acompanhou as reflexões sobre o Empreenda, pelo qual é responsável.",
+      "original": "codex-clipboard-edebaf16-2b7d-4304-b3f7-4ef690ad34c1.png"
+    },
+    {
+      "id": "a4-mestrado",
+      "lesson": 4,
+      "path": "assets/evidencias/a4-mestrado.png",
+      "title": "Compartilhar a experiência do mestrado",
+      "caption": "O chat contextualiza a conversa sobre mestrado no início da aula. Minha participação foi oral: compartilhei o quanto o processo, já próximo da conclusão, contribuiu para meu aprendizado pedagógico e a dedicação de tempo que exige.",
+      "original": "codex-clipboard-da8d0cdd-239f-4158-b251-63174b77eadd.png"
+    },
+    {
+      "id": "a4-elastitam",
+      "lesson": 4,
+      "path": "assets/evidencias/a4-elastitam.png",
+      "title": "Mulheres e tecnologia: uma iniciativa compartilhada",
+      "caption": "João apresentou a Elastitam, iniciativa de fortalecimento e empoderamento das mulheres na tecnologia que acontece em sua unidade, Senac Lapa Tito.",
+      "original": "codex-clipboard-0b16089d-0810-4f90-9d33-f7b4f8bf2726.png"
+    },
+    {
+      "id": "a4-bloom",
+      "lesson": 4,
+      "path": "assets/evidencias/a4-bloom.png",
+      "title": "Verbos que dão intenção à aula",
+      "caption": "Material sobre a Taxonomia de Bloom revisada enviado como evidência do encontro. Sua escolha registra a importância que atribuo aos verbos no desenvolvimento e na intencionalidade das situações de aprendizagem.",
+      "original": "Diagrama O conteúdo gerado por IA pode estar incorreto_.png"
+    }
+  ],
+  "missing": []
+}
